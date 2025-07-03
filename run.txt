@@ -1,4 +1,4 @@
-Steps to run the project:
+Steps to run the code:
 
 1. Steps to run the code to build matrix factorization model:
   MatrixFactorization.py ratings.csv  8 movies.csv
